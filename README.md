@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**sakshikasera/sakshikasera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**sakshikasera/sakshikasera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
  💫 About Me:
  🔭I am working on building robust , scalable web applications using the latest technologies and best practices.
@@ -12,7 +12,7 @@
  📫 How to reach me: You can connect with me on LinkedIn or send me an email.
  😄 Pronouns: She/Her
 
--->
+
 
 
 ## 🌐 Socials:
