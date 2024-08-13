@@ -3,14 +3,14 @@
 
 <!--**sakshikasera/sakshikasera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- 💫 About Me:
- 🔭I am working on building robust , scalable web applications using the latest technologies and best practices.
- 🌱I am looking to collaborate on exciting projects that leverage my skills in MERN stack and contribute to solving real-world problems.
- 👯 I’m currently learning full-stack technologies more effectively by building projects.
- 🤔Ask me about my experience in developing RESTful APIs using Express.js and my approach to database design and optimization.
- 💬In my free time, I enjoy hiking and exploring the great outdoors. I also have an interest in sports and love to capture the beauty of nature through my lens.
- 📫 How to reach me: You can connect with me on LinkedIn or send me an email.
- 😄 Pronouns: She/Her
+ 💫 About Me:<br/>
+ 🔭I am working on building robust , scalable web applications using the latest technologies and best practices.<br/>
+ 🌱I am looking to collaborate on exciting projects that leverage my skills in MERN stack and contribute to solving real-world problems.<br/>
+ 👯 I’m currently learning full-stack technologies more effectively by building projects.<br/>
+ 🤔Ask me about my experience in developing RESTful APIs using Express.js and my approach to database design and optimization.<br/>
+ 💬In my free time, I enjoy hiking and exploring the great outdoors. I also have an interest in sports and love to capture the beauty of nature through my lens.<br/>
+ 📫 How to reach me: You can connect with me on LinkedIn or send me an email.<br/>
+ 😄 Pronouns: She/Her<br/>
 
 
 
